@@ -15,7 +15,7 @@ function App() {
     let randomItem = undefined;
     do {
       randomItem = songs[Math.floor(Math.random() * songs.length)];
-    } while (playedSongs.includes(randomItem.videoId));
+    } while (randomItem.videoId != null && playedSongs.includes(randomItem.videoId));
     let newSong = randomItem;
     setPlayedSongs([...playedSongs, newSong.videoId]);
     setCurrentSong(newSong);

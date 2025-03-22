@@ -1,6 +1,8 @@
 
 Single page app to play around youtube and your musical culture.
 
+Let's [play](https://mestachs.github.io/hitlist) !
+
 
 TODO
  - find a way to get the button play working ;)
