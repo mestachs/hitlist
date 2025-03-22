@@ -1,0 +1,82 @@
+/* Styling for the song widget */
+.song-widget {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #eedfdf;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2, h3 {
+    color: #333;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .question-container {
+    margin-top: 20px;
+  }
+  
+  .button-container {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .answer-button, .action-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .answer-button:hover, .action-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .input-container {
+    margin-top: 10px;
+  }
+  
+  .big-input {
+    padding: 15px;
+    font-size: 20px;
+    width: 300px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .submit-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .submit-button:hover {
+    background-color: #218838;
+  }
+  
+  .answer-status {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .answer-status.right {
+    color: green;
+  }
+  
+  .answer-status.wrong {
+    color: red;
+  }

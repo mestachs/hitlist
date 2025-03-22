@@ -1,0 +1,113 @@
+{
+    "songs": [
+        {
+            "videoId": "dQw4w9WgXcQ",
+            "title": "Never Gonna Give You Up",
+            "artist": "Rick Astley",
+            "album": "Whenever You Need Somebody",
+            "releaseYear": 1987,
+            "genre": "Pop",
+            "description": "A classic 1987 pop song that became an internet meme known as 'Rickrolling'."
+        },
+        {
+            "videoId": "hTWKbfoikeg",
+            "title": "Smells Like Teen Spirit",
+            "artist": "Nirvana",
+            "album": "Nevermind",
+            "releaseYear": 1991,
+            "genre": "Grunge",
+            "description": "One of the most iconic grunge anthems that defined the 1990s alternative rock scene."
+        },     
+        {
+            "videoId": "aKCt8ssC7cs",
+            "title": "Johnny B. Goode",
+            "artist": "Chuck Berry",
+            "album": "Chuck Berry Is on Top",
+            "releaseYear": 1958,
+            "genre": "Rock and Roll",
+            "description": "A pioneering rock and roll song that influenced generations of musicians."
+        },
+        {
+            "videoId": "IwOfCgkyEj0",
+            "title": "Like a Rolling Stone",
+            "artist": "Bob Dylan",
+            "album": "Highway 61 Revisited",
+            "releaseYear": 1965,
+            "genre": "Folk Rock",
+            "description": "A revolutionary song in folk rock, considered one of the greatest songs of all time."
+        },
+        {
+            "videoId": "fJ9rUzIMcZQ",
+            "title": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "album": "A Night at the Opera",
+            "releaseYear": 1975,
+            "genre": "Rock",
+            "description": "A progressive rock masterpiece blending opera and hard rock elements."
+        },
+        {
+            "videoId": "Zi_XLOBDo_Y",
+            "title": "Billie Jean",
+            "artist": "Michael Jackson",
+            "album": "Thriller",
+            "releaseYear": 1982,
+            "genre": "Pop",
+            "description": "One of the most famous songs in pop music history, known for its iconic bassline."
+        },
+
+        {
+            "videoId": "YlUKcNNmywk",
+            "title": "Californication",
+            "artist": "Red Hot Chili Peppers",
+            "album": "Californication",
+            "releaseYear": 1999,
+            "genre": "Alternative Rock",
+            "description": "A song that captures the band's signature blend of rock and funk."
+        },
+        {
+            "videoId": "9bZkp7q19f0",
+            "title": "Gangnam Style",
+            "artist": "PSY",
+            "album": "Psy 6 (Six Rules), Part 1",
+            "releaseYear": 2012,
+            "genre": "K-Pop",
+            "description": "A viral sensation that became the first YouTube video to reach one billion views."
+        },
+        {
+            "videoId": "kJQP7kiw5Fk",
+            "title": "Despacito",
+            "artist": "Luis Fonsi ft. Daddy Yankee",
+            "album": "Vida",
+            "releaseYear": 2017,
+            "genre": "Reggaeton",
+            "description": "One of the most streamed songs ever, blending Latin pop and reggaeton influences."
+        },
+        {
+            "videoId": "G7KNmW9a75Y",
+            "title": "Flowers",
+            "artist": "Miley Cyrus",
+            "album": "Endless Summer Vacation",
+            "releaseYear": 2023,
+            "genre": "Pop",
+            "description": "A self-empowerment anthem reflecting on personal growth and independence.",
+            "achievements": [
+                "Broke Spotify streaming records upon release.",
+                "Topped global charts for multiple weeks."
+            ]
+        },
+        {
+            "videoId": "ekr2nIex040",
+            "title": "Apt.",
+            "artist": "ROSÉ & Bruno Mars",
+            "album": "TBD",
+            "releaseYear": 2024,
+            "genre": "Pop",
+            "description": "A collaboration blending K-pop and R&B elements, showcasing both artists' vocal prowess.",
+            "achievements": [
+                "Surpassed 100 million Spotify streams within seven days.",
+                "Reached one billion streams on Spotify in 100 days.",
+                "Debuted at number one on both the Billboard Global 200 and Global Excl. US charts."
+            ]
+        }
+    ]
+}
