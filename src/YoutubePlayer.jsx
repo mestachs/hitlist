@@ -27,6 +27,7 @@ const YouTubePlayer = ({ videoId, startTime, onStartPlaying, onPlayed }) => {
     }
   };
   const options = {
+    width: '100%', // Make it responsive
     playerVars: {
       autoplay: 0,
       controls: 0,
@@ -74,7 +75,7 @@ const YouTubePlayer = ({ videoId, startTime, onStartPlaying, onPlayed }) => {
       />
 
       <YouTube id={videoId}
-        style={{ display: showButton ? "none" : "" }}
+        style={{ display: showButton ? "none" : "" , maxWidth: "100VW", heigh: "50vh"}}
         videoId={videoId}
         onReady={onReady}
         onPlay={onPlay}

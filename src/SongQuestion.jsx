@@ -22,25 +22,25 @@ const SongWidget = ({ song, onAnswer }) => {
   const askQuestion = (questionType) => {
     setUserAnswer("");
     setAnswerStatus(undefined);
-    if (questionType === "") {
+    if (questionType === BEFORE_AFTER_2000) {
       setQuestion({
         label: "Is the release year before or after 2000?",
         type: questionType,
       });
       setInputType("beforeAfter");
-    } else if (questionType === "giveYear4") {
+    } else if (questionType === GIVE_YEAR_4) {
       setQuestion({
         label: "Give the release year (+/-4 years)?",
         type: questionType,
       });
       setInputType("year");
-    } else if (questionType === "giveYear2") {
+    } else if (questionType === GIVE_YEAR_2) {
       setQuestion({
         label: "Give the release year (+/-2 years)?",
         type: questionType,
       });
       setInputType("year");
-    } else if (questionType === "decade") {
+    } else if (questionType === DECADE) {
       setQuestion({
         label:
           "Give a year and check if the song was released in that decade (...,1980, 1990, 2000,...).",
@@ -68,15 +68,14 @@ const SongWidget = ({ song, onAnswer }) => {
         const decadeStart = Math.floor(userAnswer / 10) * 10;
         const decadeEnd = decadeStart + 9;
         correct =
-          decadeStart <= song.releaseYear && song.releaseYear <= decadeEnd;
+          decadeStart <= parseInt(song.releaseYear) &&
+          parseInt(song.releaseYear) <= decadeEnd;
       } else if (question.type === GIVE_YEAR_4) {
-        const newYear = parseInt(userAnswer);
         correct =
-          song.releaseYear - 4 <= newYear && newYear <= song.releaseYear + 4;
+          Math.abs(parseInt(song.releaseYear) - parseInt(userAnswer)) <= 4;
       } else if (question.type === GIVE_YEAR_2) {
-        const newYear = parseInt(userAnswer);
         correct =
-          song.releaseYear - 2 <= newYear && newYear <= song.releaseYear + 2;
+          Math.abs(parseInt(song.releaseYear) - parseInt(userAnswer)) <= 2;
       }
       setAnswerStatus(correct ? "right" : "wrong");
 
@@ -93,7 +92,11 @@ const SongWidget = ({ song, onAnswer }) => {
           <h2>{song.title}</h2>
           <h3>{song.artist}</h3>
           <p>{song.description}</p>
-          <p><span style={{fontSize: "50px"}}><b>{song.releaseYear}</b></span></p>
+          <p>
+            <span style={{ fontSize: "50px" }}>
+              <b>{song.releaseYear}</b>
+            </span>
+          </p>
         </div>
       )}
 
