@@ -1,5 +1,746 @@
 {
+    "name": "Top 100 Greatest Songs of All Time",
     "songs": [
+        {
+            "videoId": "PpsUOOfb-vE",
+            "title": "Jailhouse Rock",
+            "artist": "Elvis Presley",
+            "album": "Elvis' Golden Records",
+            "releaseYear": "1958",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "dvCMADaYYBg",
+            "title": "Hotel California - 2013 Remaster",
+            "artist": "Eagles",
+            "album": "Hotel California (2013 Remaster)",
+            "releaseYear": "1976",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "Zi_XLOBDo_Y",
+            "title": "Billie Jean",
+            "artist": "Michael Jackson",
+            "album": "Thriller 25 Super Deluxe Edition",
+            "releaseYear": "2008",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "fJ9rUzIMcZQ",
+            "title": "Bohemian Rhapsody - Remastered 2011",
+            "artist": "Queen",
+            "album": "A Night At The Opera (2011 Remaster)",
+            "releaseYear": "1975",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "CGj85pVzRJs",
+            "title": "Let It Be - Remastered 2009",
+            "artist": "The Beatles",
+            "album": "Let It Be (Remastered)",
+            "releaseYear": "1970",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "nrIPxlFzDi0",
+            "title": "(I Can't Get No) Satisfaction - Mono Version",
+            "artist": "The Rolling Stones",
+            "album": "Out Of Our Heads",
+            "releaseYear": "1965",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "FTQbiNvZqaY",
+            "title": "Africa",
+            "artist": "TOTO",
+            "album": "Toto IV",
+            "releaseYear": "1982",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "t4QK8RxCAwo",
+            "title": "More Than a Feeling",
+            "artist": "Boston",
+            "album": "Boston",
+            "releaseYear": "1976",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "fNFzfwLM72c",
+            "title": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
+            "artist": "Bee Gees",
+            "album": "Greatest",
+            "releaseYear": "1979",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "hTWKbfoikeg",
+            "title": "Smells Like Teen Spirit",
+            "artist": "Nirvana",
+            "album": "Nevermind (Deluxe Edition)",
+            "releaseYear": "1991",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "OMOGaugKpzs",
+            "title": "Every Breath You Take",
+            "artist": "The Police",
+            "album": "Synchronicity (Remastered 2003)",
+            "releaseYear": "1983",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "hwZNL7QVJjE",
+            "title": "Stand By Me",
+            "artist": "Ben E. King",
+            "album": "Don't Play That Song (Mono)",
+            "releaseYear": "1962",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "0-EF60neguk",
+            "title": "Nothing Compares 2 U",
+            "artist": "Sin\u00e9ad O'Connor",
+            "album": "I Do Not Want What I Haven't Got",
+            "releaseYear": "1990",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "VOgFZfRVaww",
+            "title": "Imagine - Remastered 2010",
+            "artist": "John Lennon",
+            "album": "Imagine",
+            "releaseYear": "1971",
+            "genre": null,
+            "description": null
+        },      
+        {
+            "videoId": "ZhIsAZO5gl0",
+            "title": "I Was Made For Lovin' You",
+            "artist": "KISS",
+            "album": "Dynasty",
+            "releaseYear": "1979",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "oRdxUFDoQe0",
+            "title": "Beat It",
+            "artist": "Michael Jackson",
+            "album": "Thriller 25 Super Deluxe Edition",
+            "releaseYear": "2008",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "HQmmM_qwG4k",
+            "title": "Whole Lotta Love - 1990 Remaster",
+            "artist": "Led Zeppelin",
+            "album": "Led Zeppelin II (1994 Remaster)",
+            "releaseYear": "1969",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "djV11Xbc914",
+            "title": "Take on Me",
+            "artist": "a-ha",
+            "album": "Hunting High and Low",
+            "releaseYear": "1985",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "GLvohMXgcBo",
+            "title": "Under the Bridge",
+            "artist": "Red Hot Chili Peppers",
+            "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+            "releaseYear": "1991",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "fPO76Jlnz6c",
+            "title": "Gangsta's Paradise",
+            "artist": "CoolioL.V.",
+            "album": "Gangsta's Paradise",
+            "releaseYear": "1995",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "1w7OgIMMRc4",
+            "title": "Sweet Child O' Mine",
+            "artist": "Guns N' Roses",
+            "album": "Appetite For Destruction",
+            "releaseYear": "1987",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "3JWTaaS7LdU",
+            "title": "I Will Always Love You",
+            "artist": "Whitney Houston",
+            "album": "The Bodyguard - Original Soundtrack Album",
+            "releaseYear": "1992",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "AIOAlaACuv4",
+            "title": "Fast Car",
+            "artist": "Tracy Chapman",
+            "album": "Tracy Chapman",
+            "releaseYear": "1988",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "R4GLAKEjU4w",
+            "title": "(What A) Wonderful World",
+            "artist": "Sam Cooke",
+            "album": "The Man Who Invented Soul",
+            "releaseYear": "2000",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "347vCib_lMs",
+            "title": "Purple Rain",
+            "artist": "Prince",
+            "album": "Purple Rain",
+            "releaseYear": "1984",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "-eHJ12Vhpyc",
+            "title": "Hound Dog",
+            "artist": "Elvis Presley",
+            "album": "Elvis' Golden Records",
+            "releaseYear": "1958",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "PIb6AZdTr-A",
+            "title": "Girls Just Want to Have Fun",
+            "artist": "Cyndi Lauper",
+            "album": "She's So Unusual",
+            "releaseYear": "1983",
+            "genre": null,
+            "description": null
+        },       
+        {
+            "videoId": "A_MjCqQoLLA",
+            "title": "Hey Jude - Remastered 2015",
+            "artist": "The Beatles",
+            "album": "1 (Remastered)",
+            "releaseYear": "2000",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "4F_RCWVoL4s",
+            "title": "Sweet Caroline",
+            "artist": "Neil Diamond",
+            "album": "Sweet Caroline",
+            "releaseYear": "1969",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "IC5PL0XImjw",
+            "title": "Ain't No Mountain High Enough",
+            "artist": "Marvin Gaye Tammi Terrell",
+            "album": "United",
+            "releaseYear": "1967",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "xwtdhWltSIg",
+            "title": "Losing My Religion",
+            "artist": "R.E.M.",
+            "album": "Out Of Time (25th Anniversary Edition)",
+            "releaseYear": "1991",
+            "genre": null,
+            "description": null
+        },
+    
+        {
+            "videoId": "A134hShx_gw",
+            "title": "Respect",
+            "artist": "Aretha Franklin",
+            "album": "I Never Loved a Man the Way I Love You",
+            "releaseYear": "1967",
+            "genre": null,
+            "description": null
+        },
+      
+        {
+            "videoId": "KQetemT1sWc",
+            "title": "Here Comes The Sun - Remastered 2009",
+            "artist": "The Beatles",
+            "album": "Abbey Road (Remastered)",
+            "releaseYear": "1969",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "Gs069dndIYk",
+            "title": "September",
+            "artist": "Earth, Wind & Fire",
+            "album": "September",
+            "releaseYear": "2018",
+            "genre": null,
+            "description": null
+        },
+     
+        {
+            "videoId": "QkF3oxziUI4",
+            "title": "Stairway to Heaven - Remaster",
+            "artist": "Led Zeppelin",
+            "album": "Led Zeppelin IV (Deluxe Edition)",
+            "releaseYear": "1971",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "1k8craCGpgs",
+            "title": "Don't Stop Believin'",
+            "artist": "Journey",
+            "album": "Escape (Bonus Track Version)",
+            "releaseYear": "1981",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "h0ffIJ7ZO4U",
+            "title": "Sultans Of Swing",
+            "artist": "Dire Straits",
+            "album": "Dire Straits",
+            "releaseYear": "1978",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "btPJPFnesV4",
+            "title": "Eye of the Tiger",
+            "artist": "Survivor",
+            "album": "Rocky IV",
+            "releaseYear": "1985",
+            "genre": null,
+            "description": null
+        },
+
+        {
+            "videoId": "s__rX_WL100",
+            "title": "Like a Virgin",
+            "artist": "Madonna",
+            "album": "Like a Virgin",
+            "releaseYear": "1984",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "YkADj0TPrJA",
+            "title": "In The Air Tonight - 2015 Remastered",
+            "artist": "Phil Collins",
+            "album": "Face Value (Deluxe Editon)",
+            "releaseYear": "1981",
+            "genre": null,
+            "description": null
+        },
+
+        {
+            "videoId": "ftdZ363R9kQ",
+            "title": "Superstition - Single Version",
+            "artist": "Stevie Wonder",
+            "album": "The Definitive Collection",
+            "releaseYear": "2002",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "NKMtZm2YuBE",
+            "title": "I'll Be Missing You (feat. Faith Evans, 112)",
+            "artist": "Diddy Faith Evans 112",
+            "album": "Bad Boy's 10th Anniversary- The Hits",
+            "releaseYear": "2004",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "lDK9QqIzhwk",
+            "title": "Livin' On A Prayer",
+            "artist": "Bon Jovi",
+            "album": "Slippery When Wet",
+            "releaseYear": "1986",
+            "genre": null,
+            "description": null
+        },
+      
+        {
+            "videoId": "yURRmWtbTbo",
+            "title": "Don't Stop 'Til You Get Enough",
+            "artist": "Michael Jackson",
+            "album": "Off the Wall",
+            "releaseYear": "1979",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "l482T0yNkeo",
+            "title": "Highway to Hell",
+            "artist": "AC/DC",
+            "album": "Highway to Hell",
+            "releaseYear": "1979",
+            "genre": null,
+            "description": null
+        },
+
+        {
+            "videoId": "eFjjO_lhf9c",
+            "title": "Summer Of '69",
+            "artist": "Bryan Adams",
+            "album": "Reckless (30th Anniversary / Deluxe Edition)",
+            "releaseYear": "1984",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "jenWdylTtzs",
+            "title": "I Want To Hold Your Hand - Remastered 2015",
+            "artist": "The Beatles",
+            "album": "1 (Remastered)",
+            "releaseYear": "1964",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "z0vCwGUZe1I",
+            "title": "A Whiter Shade of Pale - Original Single Version",
+            "artist": "Procol Harum",
+            "album": "Hits'n'Flips",
+            "releaseYear": "1967",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "r3Pr1_v7hsw",
+            "title": "I Want to Know What Love Is - 1999 Remaster",
+            "artist": "Foreigner",
+            "album": "Agent Provocateur",
+            "releaseYear": "1984",
+            "genre": null,
+            "description": null
+        },
+  
+        {
+            "videoId": "6dYWe1c3OyU",
+            "title": "I Will Survive - Single Version",
+            "artist": "Gloria Gaynor",
+            "album": "Hits Of The 70's",
+            "releaseYear": "1978",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "YuKfiH0Scao",
+            "title": "Ain't No Sunshine",
+            "artist": "Bill Withers",
+            "album": "Just As I Am",
+            "releaseYear": "1971",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "izGwDsrQ1eQ",
+            "title": "Careless Whisper",
+            "artist": "George Michael",
+            "album": "Ladies And Gentlemen... The Best Of George Michael",
+            "releaseYear": "1998",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "XXx6RDzR6eM",
+            "title": "Let's Stay Together",
+            "artist": "Al Green",
+            "album": "Let's Stay Together",
+            "releaseYear": "1972",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "EBUFtoC2oj4",
+            "title": "Paint It, Black",
+            "artist": "The Rolling Stones",
+            "album": "Aftermath",
+            "releaseYear": "1966",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "4G-YQA_bsOU",
+            "title": "Bridge Over Troubled Water",
+            "artist": "Simon & Garfunkel",
+            "album": "Bridge Over Troubled Water",
+            "releaseYear": "1970",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "TR3Vdo5etCQ",
+            "title": "Don't Speak",
+            "artist": "No Doubt",
+            "album": "Tragic Kingdom",
+            "releaseYear": "1995",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "oKOtzIo-uYw",
+            "title": "Killing Me Softly With His Song",
+            "artist": "Fugees Ms. Lauryn Hill",
+            "album": "The Score (Expanded Edition)",
+            "releaseYear": "1996",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "aKCt8ssC7cs",
+            "title": "Johnny B. Goode",
+            "artist": "Chuck Berry",
+            "album": "Berry Is On Top",
+            "releaseYear": "1959",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "bO28lB1uwp4",
+            "title": "Have You Ever Seen The Rain",
+            "artist": "Creedence Clearwater Revival",
+            "album": "Pendulum (Expanded Edition)",
+            "releaseYear": "1970",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "7C-VscEQugk",
+            "title": "(Sittin' On) the Dock of the Bay",
+            "artist": "Otis Redding",
+            "album": "The Dock of the Bay (Mono)",
+            "releaseYear": "1968",
+            "genre": null,
+            "description": null
+        },
+
+        {
+            "videoId": "FVdjZYfDuLE",
+            "title": "Wonderwall",
+            "artist": "Oasis",
+            "album": "(What's the Story) Morning Glory?",
+            "releaseYear": "1995",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "BN1WwnEDWAM",
+            "title": "Should I Stay or Should I Go - Remastered",
+            "artist": "The Clash",
+            "album": "Combat Rock (Remastered)",
+            "releaseYear": "1982",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "CaCSuzR4DwM",
+            "title": "What A Wonderful World",
+            "artist": "Louis Armstrong",
+            "album": "What A Wonderful World",
+            "releaseYear": "1968",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "ozl3L9fhKtE",
+            "title": "Go Your Own Way - 2004 Remaster",
+            "artist": "Fleetwood Mac",
+            "album": "Rumours",
+            "releaseYear": "1977",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "kijpcUv-b8M",
+            "title": "Somebody To Love - Remastered 2011",
+            "artist": "Queen",
+            "album": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+            "releaseYear": "1976",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "S3ta4T9tIUM",
+            "title": "Listen to the Music",
+            "artist": "The Doobie Brothers",
+            "album": "Toulouse Street",
+            "releaseYear": "1972",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "y3KJ7d2qBoA",
+            "title": "My Girl",
+            "artist": "The Temptations",
+            "album": "The Temptations Sing Smokey",
+            "releaseYear": "1965",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "QwVjTlTdIDQ",
+            "title": "Piano Man",
+            "artist": "Billy Joel",
+            "album": "The Essential Billy Joel",
+            "releaseYear": "2001",
+            "genre": null,
+            "description": null
+        },
+      
+        {
+            "videoId": "E_lu_V15-Co",
+            "title": "Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",
+            "artist": "Pink Floyd",
+            "album": "The Wall (Remastered)",
+            "releaseYear": "1979",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "-35W_FWCT9Q",
+            "title": "Sweet Home Alabama",
+            "artist": "Lynyrd Skynyrd",
+            "album": "Second Helping (Expanded Edition)",
+            "releaseYear": "1974",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "--qcJdGBmcU",
+            "title": "Hit the Road Jack (Remastered)",
+            "artist": "Ray Charles",
+            "album": "Las 66 Favoritas de Jose Mar\u00eda \u00cd\u00f1igo y Jos\u00e9 Ram\u00f3n Pardo. Vol. 1 (1958-1961) [Remastered]]",
+            "releaseYear": "1960",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "Sj0pzxGyvUQ",
+            "title": "Sugar, Sugar",
+            "artist": "The Archies",
+            "album": "The Very Best Of \"The Archies\"",
+            "releaseYear": "1969",
+            "genre": null,
+            "description": null
+        },        
+        {
+            "videoId": null,
+            "title": "Wake Me Up Before You Go-Go",
+            "artist": "Wham!",
+            "album": "Make It Big",
+            "releaseYear": "1984",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": null,
+            "title": "Don't Go Breaking My Heart",
+            "artist": "Elton JohnKiki Dee",
+            "album": "Rock Of The Westies",
+            "releaseYear": "1975",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": null,
+            "title": "These Boots Are Made For Walkin'",
+            "artist": "Nancy Sinatra",
+            "album": "Boots",
+            "releaseYear": "1966",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": null,
+            "title": "Alliterations & Intertextuality",
+            "artist": "Philip Ancher",
+            "album": "Alliterations & Intertextuality",
+            "releaseYear": "2023",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "y2bVIBwpCTA",
+            "title": "I Want You Back",
+            "artist": "The Jackson 5",
+            "album": "Diana Ross Presents The Jackson 5",
+            "releaseYear": "1969",
+            "genre": null,
+            "description": null
+        },
+   
+        {
+            "videoId": "EPhWR4d3FJQ",
+            "title": "Born in the U.S.A.",
+            "artist": "Bruce Springsteen",
+            "album": "Born In The U.S.A.",
+            "releaseYear": "1984",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "UfmkgQRmmeE",
+            "title": "Brown Eyed Girl",
+            "artist": "Van Morrison",
+            "album": "Blowin' Your Mind!",
+            "releaseYear": "1967",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "ZEcqHA7dbwM",
+            "title": "Fly Me To The Moon (In Other Words)",
+            "artist": "Frank Sinatra Count Basie",
+            "album": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+            "releaseYear": "1962",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "0YLiTLmrMZA",
+            "title": "Hot Stuff",
+            "artist": "Donna Summer",
+            "album": "Bad Girls",
+            "releaseYear": "1979",
+            "genre": null,
+            "description": null
+        },
         {
             "videoId": "dQw4w9WgXcQ",
             "title": "Never Gonna Give You Up",
@@ -10,24 +751,6 @@
             "description": "A classic 1987 pop song that became an internet meme known as 'Rickrolling'."
         },
         {
-            "videoId": "hTWKbfoikeg",
-            "title": "Smells Like Teen Spirit",
-            "artist": "Nirvana",
-            "album": "Nevermind",
-            "releaseYear": 1991,
-            "genre": "Grunge",
-            "description": "One of the most iconic grunge anthems that defined the 1990s alternative rock scene."
-        },     
-        {
-            "videoId": "aKCt8ssC7cs",
-            "title": "Johnny B. Goode",
-            "artist": "Chuck Berry",
-            "album": "Chuck Berry Is on Top",
-            "releaseYear": 1958,
-            "genre": "Rock and Roll",
-            "description": "A pioneering rock and roll song that influenced generations of musicians."
-        },
-        {
             "videoId": "IwOfCgkyEj0",
             "title": "Like a Rolling Stone",
             "artist": "Bob Dylan",
@@ -35,15 +758,6 @@
             "releaseYear": 1965,
             "genre": "Folk Rock",
             "description": "A revolutionary song in folk rock, considered one of the greatest songs of all time."
-        },
-        {
-            "videoId": "fJ9rUzIMcZQ",
-            "title": "Bohemian Rhapsody",
-            "artist": "Queen",
-            "album": "A Night at the Opera",
-            "releaseYear": 1975,
-            "genre": "Rock",
-            "description": "A progressive rock masterpiece blending opera and hard rock elements."
         },
         {
             "videoId": "Zi_XLOBDo_Y",
