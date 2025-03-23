@@ -1,0 +1,905 @@
+{
+    "name": "French",
+    "songs": [
+        {
+            "videoId": "F_rEHfLgdcY",
+            "title": "J'me tire",
+            "artist": "GIMS",
+            "album": "Subliminal (La face cach\u00e9e)",
+            "releaseYear": "2013",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "h4epugLvFNY",
+            "title": "Ta marini\u00e8re",
+            "artist": "Hoshi",
+            "album": "Il Suffit D'Y Croire",
+            "releaseYear": "2018",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "oGdhZyS2ozo",
+            "title": "La terre est ronde",
+            "artist": "Orelsan",
+            "album": "Le Chant des sir\u00e8nes",
+            "releaseYear": "2011",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "0TFNGRYMz1U",
+            "title": "Je veux",
+            "artist": "Zaz",
+            "album": "Zaz",
+            "releaseYear": "2010",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "oiKj0Z_Xnjc",
+            "title": "Papaoutai",
+            "artist": "Stromae",
+            "album": "racine carr\u00e9e",
+            "releaseYear": "2013",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "iPGgnzc34tY",
+            "title": "Djadja",
+            "artist": "Aya Nakamura",
+            "album": "NAKAMURA",
+            "releaseYear": "2018",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "NLAbYWKwrfk",
+            "title": "D\u00e9sol\u00e9",
+            "artist": "Sexion d'Assaut",
+            "album": "L'\u00e9cole des points vitaux",
+            "releaseYear": "2010",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "K5KAc5CoCuk",
+            "title": "Derni\u00e8re danse",
+            "artist": "Indila",
+            "album": "Mini World",
+            "releaseYear": "2014",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "CpTLFchI8Zk",
+            "title": "Hit Sale",
+            "artist": "Therapie TAXI, Rom\u00e9o Elvis",
+            "album": "Hit Sale",
+            "releaseYear": "2018",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "U-Z_bZS8t3M",
+            "title": "Sur ma route",
+            "artist": "Black M",
+            "album": "Les yeux plus gros que le monde",
+            "releaseYear": "2014",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "kzNJammeCoA",
+            "title": "No Me Mires M\u00e1s",
+            "artist": "Kendji Girac, Soprano",
+            "album": "Ensemble (Deluxe Version)",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "voQhp1K2TSk",
+            "title": "\u00c0 nos souvenirs",
+            "artist": "Trois Caf\u00e9s Gourmands",
+            "album": "Un air de rien (Version collector)",
+            "releaseYear": "2018",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "6TpyRE_juyA",
+            "title": "Est-ce que tu m'aimes ? - Pilule bleue",
+            "artist": "GIMS",
+            "album": "Mon coeur avait raison",
+            "releaseYear": "2015",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "NuXaPB_KWg8",
+            "title": "Chocolat (feat. Awa Imani)",
+            "artist": "Lartiste, Awa Imani",
+            "album": "Clandestino",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "iUCJhD_2zmA",
+            "title": "En feu",
+            "artist": "Soprano",
+            "album": "L'Everest (Deluxe Edition)",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "Bkm03KcnKHE",
+            "title": "Trop beau",
+            "artist": "Lomepal",
+            "album": "Jeannine",
+            "releaseYear": "2018",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "nPwGvjd2zOU",
+            "title": "C\u00f4te Ouest",
+            "artist": "47ter",
+            "album": "L\u2019adresse",
+            "releaseYear": "2019",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "Mqb8weZrKN4",
+            "title": "Le chant deOsmands sir\u00e8nes",
+            "artist": "Fr\u00e9ro Delavega",
+            "album": "Fr\u00e9ro Delavega",
+            "releaseYear": "2014",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "FndmvPkI1Ms",
+            "title": "Andalouse",
+            "artist": "Kendji Girac",
+            "album": "Kendji",
+            "releaseYear": "2015",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "Y9GCM9DZUJo",
+            "title": "Un homme debout",
+            "artist": "Claudio Cap\u00e9o",
+            "album": "Claudio Cap\u00e9o",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "hWXYnW2Um68",
+            "title": "Le Graal",
+            "artist": "Kyo",
+            "album": "L'\u00e9quilibre",
+            "releaseYear": "2014",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "NiHWwKC8WjU",
+            "title": "Elle me dit",
+            "artist": "MIKA",
+            "album": "The Origin Of Love",
+            "releaseYear": "2012",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "tVKaN_H35xs",
+            "title": "Reine",
+            "artist": "Dadju",
+            "album": "Gentleman 2.0",
+            "releaseYear": "2017",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "eLYyCFuPCX8",
+            "title": "Je m'en vais",
+            "artist": "Vianney",
+            "album": "Vianney",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "8AF-Sm8d8yk",
+            "title": "Dommage",
+            "artist": "Bigflo & Oli",
+            "album": "La vraie vie",
+            "releaseYear": "2017",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "yH-6SoFYkLg",
+            "title": "Je te le donne",
+            "artist": "Vitaa, Slimane",
+            "album": "VersuS",
+            "releaseYear": "2019",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "Vkw4Dqd43nA",
+            "title": "Rien qu'une fois",
+            "artist": "Keen' V",
+            "album": "L\u00e0 o\u00f9 le vent me m\u00e8ne (Summer Edition)",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "1CXrYuLRmgM",
+            "title": "Voodoo Song - Radio Edit",
+            "artist": "Willy William",
+            "album": "Voodoo Song",
+            "releaseYear": "2017",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "kQysGibXphE",
+            "title": "J'ai cherch\u00e9",
+            "artist": "Amir",
+            "album": "Au coeur de moi",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "DF01PMmu2_E",
+            "title": "Je m'en fous",
+            "artist": "RIDSA",
+            "album": "Je m'en fous - Single",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "VV5oVYVGfNc",
+            "title": "On \u00e9crit sur les murs",
+            "artist": "Kids United",
+            "album": "Un monde meilleur",
+            "releaseYear": "2015",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "69ptYXvUo7M",
+            "title": "Soulman",
+            "artist": "Ben L'Oncle Soul",
+            "album": "Ben L'Oncle Soul",
+            "releaseYear": "2010",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "VHoT4N43jK8",
+            "title": "Alors on danse - Radio Edit",
+            "artist": "Stromae",
+            "album": "Cheese",
+            "releaseYear": "2010",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "niyGWxVE-e4",
+            "title": "Avenir",
+            "artist": "Louane",
+            "album": "Chambre 12",
+            "releaseYear": "2015",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "qcA07gL7WEw",
+            "title": "Les plan\u00e8tes",
+            "artist": "M. Pokora",
+            "album": "PYRAMIDE",
+            "releaseYear": "2019",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "2zdqymnZoHc",
+            "title": "Et alors !",
+            "artist": "Shy'm",
+            "album": "Cam\u00e9l\u00e9on (Deluxe Edition)",
+            "releaseYear": "2012",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "MUyLUE9mWw0",
+            "title": "Les filles d'aujourd'hui",
+            "artist": "Joyce Jonathan, Vianney",
+            "album": "Une place pour moi",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "Hi7Rx3En7-k",
+            "title": "Balance ton quoi",
+            "artist": "Ang\u00e8le",
+            "album": "Brol",
+            "releaseYear": "2018",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "cmE_aahc448",
+            "title": "Paris-Seychelles",
+            "artist": "Julien Dor\u00e9",
+            "album": "L\u00d8VE",
+            "releaseYear": "2013",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "XhFzKhTFY3I",
+            "title": "La vie est belle",
+            "artist": "Indochine",
+            "album": "13",
+            "releaseYear": "2017",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "qP8wOQzpoY4",
+            "title": "Bruxelles",
+            "artist": "Boulevard des Airs",
+            "album": "Bruxelles",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "Fy1xQSiLx8U",
+            "title": "Tout oublier",
+            "artist": "Ang\u00e8le, Rom\u00e9o Elvis",
+            "album": "Brol",
+            "releaseYear": "2018",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "PGm5CxWOXzI",
+            "title": "L'horloge tourne",
+            "artist": "Mickael Miro",
+            "album": "Juste Comme \u00c7a",
+            "releaseYear": "2011",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "RHb5LKnnxLg",
+            "title": "Ramenez la coupe \u00e0 la maison",
+            "artist": "Vegedream",
+            "album": "Marchand de sable",
+            "releaseYear": "2018",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "85m-Qgo9_nE",
+            "title": "La grenade",
+            "artist": "Clara Luciani",
+            "album": "Sainte-Victoire",
+            "releaseYear": "2018",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "eyEDej0aGh8",
+            "title": "Le portrait",
+            "artist": "Calogero",
+            "album": "Les feux d'artifice (Deluxe)",
+            "releaseYear": "2015",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "rs40yxHjTxQ",
+            "title": "Christine",
+            "artist": "Christine and the Queens",
+            "album": "Chaleur Humaine",
+            "releaseYear": "2014",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "iA5UBqaJiVQ",
+            "title": "F\u00eate de trop",
+            "artist": "Eddy de Pretto",
+            "album": "Cure",
+            "releaseYear": "2018",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "yleB8fUXudw",
+            "title": "Jour 1",
+            "artist": "Louane",
+            "album": "Chambre 12",
+            "releaseYear": "2015",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "H-DosCwPCNA",
+            "title": "\u00c0 fleur de toi",
+            "artist": "Slimane",
+            "album": "\u00c0 bout de r\u00eaves",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "JswOaaE9X-I",
+            "title": "Non non non (Ecouter Barbara)",
+            "artist": "Cam\u00e9lia Jordana",
+            "album": "Camelia Jordana",
+            "releaseYear": "2010",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "m5qXr9lLdwA",
+            "title": "Il est o\u00f9 le bonheur",
+            "artist": "Christophe Ma\u00e9",
+            "album": "L'attrape-r\u00eaves",
+            "releaseYear": "2016",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "-OcNAib5Zl0",
+            "title": "Jimmy",
+            "artist": "Cats On Trees, Calogero",
+            "album": "Cats On Trees (Deluxe Edition)",
+            "releaseYear": "2015",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "7ss-xmvLGFw",
+            "title": "Mais je t'aime",
+            "artist": "Grand Corps Malade, Camille Lellouche",
+            "album": "Mais je t'aime",
+            "releaseYear": "2020",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "y0dbfkpWkUo",
+            "title": "Et Bam",
+            "artist": "Mentissa",
+            "album": "La vingtaine",
+            "releaseYear": "2022",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "5RM8GCD6xQM",
+            "title": "Popcorn Sal\u00e9",
+            "artist": "SANTA",
+            "album": "Popcorn Sal\u00e9",
+            "releaseYear": "2022",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "6ZRlNI6B-f8",
+            "title": "Un jour je marierai un ange",
+            "artist": "Pierre de Maere",
+            "album": "Un jour, je",
+            "releaseYear": "2022",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "1QH7Aw5pA30",
+            "title": "1,2,3",
+            "artist": "Amel Bent, Hatik",
+            "album": "1,2,3",
+            "releaseYear": "2020",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "hTHmZYC7Zws",
+            "title": "Le Dernier Jour du Disco",
+            "artist": "Juliette Armanet",
+            "album": "Br\u00fbler le feu",
+            "releaseYear": "2021",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "a79iLjV-HKw",
+            "title": "Bruxelles je t\u2019aime",
+            "artist": "Ang\u00e8le",
+            "album": "Nonante-Cinq",
+            "releaseYear": "2021",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "zani6VzfYPU",
+            "title": "Tout savoir",
+            "artist": "Ad\u00e9",
+            "album": "Et alors ?",
+            "releaseYear": "2022",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "pqo59FkF_5g",
+            "title": "La symphonie des \u00e9clairs",
+            "artist": "Zaho de Sagazan",
+            "album": "La symphonie des \u00e9clairs",
+            "releaseYear": "2023",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "d6BzCEkGd3I",
+            "title": "Avant toi",
+            "artist": "Vitaa, Slimane",
+            "album": "VersuS",
+            "releaseYear": "2019",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "TwhoaPgBwI8",
+            "title": "Confessions Nocturnes",
+            "artist": "Diam's, Vitaa",
+            "album": "Dans Ma Bulle",
+            "releaseYear": "2006",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "D38EUIll1pM",
+            "title": "Ma philosophie",
+            "artist": "Amel Bent",
+            "album": "Un Jour D'\u00e9t\u00e9",
+            "releaseYear": "2004",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "aU_TQcyGkvY",
+            "title": "Derni\u00e8re danse",
+            "artist": "Kyo",
+            "album": "Le chemin",
+            "releaseYear": "2003",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "KAOmC5qT02w",
+            "title": "J'ai demand\u00e9 \u00e0 la lune",
+            "artist": "Indochine",
+            "album": "Paradize",
+            "releaseYear": "2002",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "qaueBja0T5I",
+            "title": "L'envie d'aimer",
+            "artist": "Les Dix Commandements, Daniel Levi",
+            "album": "Les Dix Commandements (L'int\u00e9grale)",
+            "releaseYear": "2000",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "0qeV8PDBH8E",
+            "title": "Manhattan-Kaboul",
+            "artist": "Renaud, Axelle Red",
+            "album": "Boucan d'enfer",
+            "releaseYear": "2002",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "OC2R5fvJsxo",
+            "title": "La Boulette (G\u00e9n\u00e9ration Nan Nan)",
+            "artist": "Diam's",
+            "album": "Dans Ma Bulle",
+            "releaseYear": "2006",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "UR1GZrzizXM",
+            "title": "La lettre",
+            "artist": "Renan Luce",
+            "album": "Repenti",
+            "releaseYear": "2006",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "dGBQUcQZmYQ",
+            "title": "Tout le bonheur du monde",
+            "artist": "Sins\u00e9milia",
+            "album": "Debout les yeux ouverts",
+            "releaseYear": "2004",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "9KmZinR1rdg",
+            "title": "Parce qu'on vient de loin",
+            "artist": "Corneille",
+            "album": "Parce qu'on vient de loin",
+            "releaseYear": "2003",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "MFhKnRLEihE",
+            "title": "Face \u00e0 la mer",
+            "artist": "Calogero, Passi",
+            "album": "Calog3ro",
+            "releaseYear": "2004",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "U8DD1c24bwk",
+            "title": "Aux arbres citoyens",
+            "artist": "Yannick Noah",
+            "album": "Charango",
+            "releaseYear": "2006",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "pOMmS27LY1g",
+            "title": "Je serai (ta meilleure amie)",
+            "artist": "Lorie",
+            "album": "Pr\u00e8s de toi",
+            "releaseYear": "2001",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "SP7nnmfhdRg",
+            "title": "J'en r\u00eave encore",
+            "artist": "De Palmas",
+            "album": "Marcher Dans Le Sable",
+            "releaseYear": "2000",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "uduL7z8BkOs",
+            "title": "J'traine des pieds",
+            "artist": "Olivia Ruiz",
+            "album": "La femme chocolat",
+            "releaseYear": "2005",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "vOznRtE4fOg",
+            "title": "\u00c0 ma place",
+            "artist": "Axel Bauer, Zazie",
+            "album": "Personne N'Est Parfait",
+            "releaseYear": "2000",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "huZTRymyfpU",
+            "title": "C'est une belle journ\u00e9e",
+            "artist": "Myl\u00e8ne Farmer",
+            "album": "Histoires de",
+            "releaseYear": "2020",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "80hMEKlLVgQ",
+            "title": "La tribu de Dana",
+            "artist": "Manau",
+            "album": "Panique Celtique",
+            "releaseYear": "1998",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "iXKkxZ7U-lo",
+            "title": "Sensualit\u00e9",
+            "artist": "Axelle Red",
+            "album": "Sans plus attendre",
+            "releaseYear": "1993",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "BRTDC9Z5UdE",
+            "title": "J't'emm\u00e8ne au vent",
+            "artist": "Louise Attaque",
+            "album": "Louise Attaque",
+            "releaseYear": "1997",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "PhhlsC1q4TU",
+            "title": "Tu m'oublieras",
+            "artist": "Larusso",
+            "album": "Simplement",
+            "releaseYear": "1999",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "n0ynDkqQT10",
+            "title": "A nos actes manqu\u00e9s",
+            "artist": "Carole Fredericks, Jean-Jacques Goldman, Michael Jones",
+            "album": "Fredericks, Goldman, Jones",
+            "releaseYear": "1990",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "EVeZzR677DU",
+            "title": "Je t'aimais, je t'aime, je t'aimerai",
+            "artist": "Francis Cabrel",
+            "album": "Samedi soir sur la terre (Remastered)",
+            "releaseYear": "1994",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "AzaTyxMduH4",
+            "title": "Pour que tu m'aimes encore",
+            "artist": "C\u00e9line Dion",
+            "album": "D'Eux",
+            "releaseYear": "1995",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "S7cP8jGMtAE",
+            "title": "D\u00e9jeuner en paix",
+            "artist": "Stephan Eicher",
+            "album": "Engelberg",
+            "releaseYear": "1991",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "g-gh2hIRhkc",
+            "title": "Savoir aimer",
+            "artist": "Florent Pagny",
+            "album": "Savoir Aimer",
+            "releaseYear": "1997",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "gzlHucbD76U",
+            "title": "A\u00efcha",
+            "artist": "Khaled",
+            "album": "Sahra",
+            "releaseYear": "1996",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "hYqnu1QYC74",
+            "title": "Le Jerk",
+            "artist": "Thierry Hazard",
+            "album": "Pop music",
+            "releaseYear": "1990",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "s3O1Xro7oAI",
+            "title": "Allumer le feu",
+            "artist": "Johnny Hallyday",
+            "album": "Ce que je sais",
+            "releaseYear": "1998",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "4y4D-evzDTo",
+            "title": "Tomber la chemise",
+            "artist": "Zebda",
+            "album": "Essence Ordinaire",
+            "releaseYear": "1998",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "FgnJdqmdbaE",
+            "title": "Le lion est mort ce soir",
+            "artist": "Pow Wow",
+            "album": "Regagner Les Plaines",
+            "releaseYear": "1992",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "mYBI34quHdM",
+            "title": "J'envoie valser",
+            "artist": "Zazie",
+            "album": "Zen",
+            "releaseYear": "1996",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "yOEXcfsDl6E",
+            "title": "Il me dit que je suis belle",
+            "artist": "Patricia Kaas",
+            "album": "Je te dis vous",
+            "releaseYear": "1993",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "oUcgX4hJpT8",
+            "title": "Bye Bye - Refugee Camp Band Remix",
+            "artist": "M\u00e9n\u00e9lik",
+            "album": "Je me souviens",
+            "releaseYear": "1997",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "5_OZuEwqpbo",
+            "title": "Caroline",
+            "artist": "MC Solaar",
+            "album": "Qui s\u00e8me le vent r\u00e9colte le tempo",
+            "releaseYear": "1991",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "cx453ggSNd0",
+            "title": "Fruit de la passion",
+            "artist": "Francky Vincent",
+            "album": "Mon fest' of",
+            "releaseYear": "2009",
+            "genre": null,
+            "description": null
+        },
+        {
+            "videoId": "vqXETTRZD-U",
+            "title": "Dieu m'a donn\u00e9 la foi",
+            "artist": "Oph\u00e9lie Winter",
+            "album": "Soon",
+            "releaseYear": "1996",
+            "genre": null,
+            "description": null
+        }
+    ]
+}
