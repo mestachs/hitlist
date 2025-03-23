@@ -20,14 +20,17 @@ function App() {
     setPlayedSongs([...playedSongs, newSong.videoId]);
     setCurrentSong(newSong);
   }
+  function loadPlayList(path) {
+    fetch(path)
+    .then((r) => r.json())
+    .then((r) => {
+      setPlaylist(r);
+      pickNextSong(r.songs);
+    });
+  }
 
   useEffect(() => {
-    fetch("./playlist.json")
-      .then((r) => r.json())
-      .then((r) => {
-        setPlaylist(r);
-        pickNextSong(r.songs);
-      });
+    loadPlayList("./playlist-fr.json")
   }, []);
 
   return (
@@ -56,6 +59,12 @@ function App() {
       {/*    <pre style={{ textAlign: "left" }}>
         {JSON.stringify(currentSong, undefined, 4)}
       </pre> */}
+      <div style={{margin: "150px"}}>
+        Change the playlist to 
+        <button onClick={() => loadPlayList("./playlist-en.json")}>English</button>
+        <button onClick={() => loadPlayList("./playlist-fr.json")}>Français</button>
+      </div>
+
     </div>
   );
 }
